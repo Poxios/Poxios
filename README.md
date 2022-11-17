@@ -99,6 +99,31 @@
     </td>
   </tr>
 </table>
+<table>
+  <tr>
+    <td align="center" width="500">
+      <a href="https://github.com/osamhack2022-v2/WEB_APP_MWMS_RackVisor">
+        <img src="./img/app-logo/7.png" width="100" height="100" alt="MWMS" />
+      </a>
+      <br><b>2022 | 국방물자관리체계</b>
+    </td>
+    <td align="center" width="500">
+      <a href="https://poxios.github.io/barcode-nickname-generator/">
+        <!-- <img src="./img/app-logo/5.png" width="100" height="100" alt="Barcode Nickname Generator" /> -->
+      </a>
+      <!-- <br/><b>2022 | Barcode Nickname Generator</b> -->
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="500">
+      군 물류창고 정리를 웹에서 할 수 있게 해주는 군대판 WMS
+    </td>
+    <td align="center" width="500">
+      <!-- Generate your random barcode nickname like lIllIllI -->
+    </td>
+  </tr>
+  
+</table>
 
 # 🧰 Favorite Tech
 
