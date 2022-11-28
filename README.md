@@ -108,10 +108,10 @@
       <br><b>2022 | 국방물자관리체계</b>
     </td>
     <td align="center" width="500">
-      <a href="https://poxios.github.io/barcode-nickname-generator/">
-        <!-- <img src="./img/app-logo/5.png" width="100" height="100" alt="Barcode Nickname Generator" /> -->
+      <a href="https://github.com/Poxios/finance-telegram-bot">
+        <img src="./img/app-logo/8.png" width="100" height="100" alt="Finance Telegram Bot" />
       </a>
-      <!-- <br/><b>2022 | Barcode Nickname Generator</b> -->
+      <br/><b>2022 | Finance Telegram Bot</b>
     </td>
   </tr>
   <tr>
@@ -119,7 +119,7 @@
       군 물류창고 정리를 웹에서 할 수 있게 해주는 군대판 WMS
     </td>
     <td align="center" width="500">
-      <!-- Generate your random barcode nickname like lIllIllI -->
+      Receive economic info everyday via Telegram
     </td>
   </tr>
   
